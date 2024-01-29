@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color:  hsl(47, 88%, 63%);
+    max-width: 1440px;
+    width: 100%;
+}
+
+.two {
+    text-align: left;
+    background-color: white;
+    width: 16.5%;
+    margin: 10% auto 0;
+    padding: 1%;
+    border-radius: 15px;
+    border-right-style: outset;
+    border-bottom-style: outset;
+    
+}
+
+.four {
+    width: 198px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.three {
+    display: inline-block;
+    background-color: hsl(47, 88%, 63%);
+    font-size: xx-small;
+    font-weight: 800;
+    padding: 5px 5px;
+}
+
+h4 {
+    font-weight:700;
+    margin-bottom: 10px;
+    font-style: inherit;
+    cursor: pointer
+}
+
+img {
+    width: 20px;
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.five {
+    display: flex;
+}
+
+.six {
+    font-size: x-small;
+    font-weight: 800;
+}
+
+.seven {
+    font-size: 10px;
+    color: hsl(0, 0%, 50%);
+    margin-bottom: 10px;
+}
+
+h4:hover {
+    color: hsl(47, 88%, 63%);
+}
+
+
